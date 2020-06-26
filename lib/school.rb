@@ -16,7 +16,7 @@ class School
   def grade(grade_level)
     def sort
       nu_hash = {}
-      roster.each do |x,y|
+      roster.each do | x, y |
   end
   
 end
