@@ -14,7 +14,7 @@ class School
   end
   
   def grade(grade_level)
-    
+    roster.detect 
   end
   
   def sort
