@@ -14,7 +14,8 @@ class School
   end
   
   def grade(grade_level)
-    
+    def sort
+      
   end
   
 end
