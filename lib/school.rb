@@ -20,6 +20,7 @@ class School
         nu_hash[x] = y.sort
       end
       nu_hash
+    end
   end
   
 end
